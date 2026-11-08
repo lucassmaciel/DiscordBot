@@ -1,0 +1,4 @@
+node_modules/
+
+# Token e IDs reais do bot: nunca versionar
+.env
